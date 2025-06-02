@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 02, 2025 at 08:15 PM
+-- Generation Time: Jun 04, 2025 at 09:15 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -58,9 +58,6 @@ CREATE TABLE `requests` (
 -- Dumping data for table `requests`
 --
 
-INSERT INTO `requests` (`id`, `user_id`, `date`, `time`, `weight`, `dimensions`, `type`, `from_address`, `to_address`, `status`) VALUES
-(1, 1, '2025-06-04', '20:25:00', 84230231, '1.5x5x0.1', 'Животные', 'буба 1', 'буба 2 ', 'Доставлена'),
-(2, 1, '2025-06-18', '00:47:00', 6, '1.5x5x0.1', 'Жидкость', 'буба 1', 'буба 2 ', 'Доставлена');
 
 -- --------------------------------------------------------
 
