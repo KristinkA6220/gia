@@ -50,7 +50,6 @@ $result = $conn->query("
               <option value="Новая">Новая</option>
               <option value="В работе">В работе</option>
               <option value="Отменена">Отменена</option>
-              <option value="Отменена">Доставлена</option>
             </select>
             <button type="submit">Обновить</button>
           </form>
